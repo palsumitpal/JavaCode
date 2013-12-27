@@ -1,0 +1,1 @@
+%JDK_HOME%\bin\javac -cp perf4j-0.9.13.jar;javolution-5.5.1.jar;. QuoraProblemFast.java
